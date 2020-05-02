@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/co-mau/static/css/main.d1b05096.chunk.css",
+    "main.js": "/co-mau/static/js/main.bcf57509.chunk.js",
+    "main.js.map": "/co-mau/static/js/main.bcf57509.chunk.js.map",
+    "runtime-main.js": "/co-mau/static/js/runtime-main.d2dd5f91.js",
+    "runtime-main.js.map": "/co-mau/static/js/runtime-main.d2dd5f91.js.map",
+    "static/js/2.fd9c7631.chunk.js": "/co-mau/static/js/2.fd9c7631.chunk.js",
+    "static/js/2.fd9c7631.chunk.js.map": "/co-mau/static/js/2.fd9c7631.chunk.js.map",
+    "index.html": "/co-mau/index.html",
+    "precache-manifest.9a2ee5412e34f5900aab88e5976b1c95.js": "/co-mau/precache-manifest.9a2ee5412e34f5900aab88e5976b1c95.js",
+    "service-worker.js": "/co-mau/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/co-mau/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.fd9c7631.chunk.js.LICENSE.txt": "/co-mau/static/js/2.fd9c7631.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/co-mau/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2dd5f91.js",
+    "static/js/2.fd9c7631.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bcf57509.chunk.js"
+  ]
+}
